@@ -1,23 +1,9 @@
 {
   "name": "webshot",
   "version": "0.15.4",
-  "description": "Easy website screenshots",
-  "author": "Brenden Kokoszka",
-  "contributors": [
-    {
-      "name": "Brenden Kokoszka",
-      "email": "brenden.kokoszka@gmail.com"
-    },
-    {
-      "name": "Matthew Chase Whittemore",
-      "email": "mcwhittemore@gmail.com"
-    }
-  ],
+  "description": "Web site screenshot mailer",
+  "author": "Kevin Blake",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/brenden/node-webshot.git"
-  },
   "engine": [
     "node >=0.7.00"
   ],
